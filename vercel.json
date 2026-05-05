@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/imersao-reencontro/",
+      "permanent": false
+    }
+  ]
+}
